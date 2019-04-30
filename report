@@ -33,4 +33,3 @@ hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming-2.6.0-cdh5.13.0.jar \
 -reducer "python time_reduce.py" \
 -output /user/time_output/output 
 
-
