@@ -1,17 +1,17 @@
 <h3>SETTING UP OF ENVIRONMENT:</h3>
 
+<b>LOCAL EXECUTION</b>
 <ol>
-<li><b>LOCAL EXECUTION</b></li>
 <li>Create a file named project on desktop.</li>
 <li>Add dataset,mapper file,and reducer file to it.</li>
 <li>open cmd and check if code is working locally,if not make required changes.</li>
 </ol>
 
+<b>Hadoop execution</b>
 <ol>
-<li><b>Hadoop execution</b></li>
 <li>copy your dataset as .txt file to hadoop HDFS</li>
 <li>execute mapper and reducer using hadoop streaming jar</li>
-<ol>
+</ol>
 
 LOCAL EXECUTION  COMMANDS USED:
 
